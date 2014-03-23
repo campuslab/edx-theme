@@ -105,11 +105,11 @@ p.copyright {
   margin: 0;
   padding: 30px 0 0;
   line-height: 1.5em;
-  color: #e3dfd5;
+  color: #000000;
 }
 
 p.copyright span {
-  color: #e3dfd5;
+  color: #000000;
 }
 
 /* Footer two columns */
