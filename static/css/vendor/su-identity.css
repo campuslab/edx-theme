@@ -100,7 +100,7 @@
   text-decoration: none;
 }
 
-#su-footer p.copyright {
+p.copyright {
   font: 11px 'Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif;
   margin: 0;
   padding: 30px 0 0;
@@ -108,7 +108,7 @@
   color: #e3dfd5;
 }
 
-#su-footer p.copyright span {
+p.copyright span {
   color: #e3dfd5;
 }
 
