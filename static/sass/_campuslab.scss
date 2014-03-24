@@ -210,6 +210,8 @@ $video-thumb-url: '../themes/campuslab/images/campuslab_logo_video_thumb.png';
 {
   position: fixed;
   bottom: 0px;
+  display: block;
+  width: 100%;
 }
 
 @mixin login_register_h1_style {
