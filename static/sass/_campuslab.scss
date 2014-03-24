@@ -201,6 +201,11 @@ $video-thumb-url: '../themes/campuslab/images/campuslab_logo_video_thumb.png';
   top: 40px;
 }
 
+.home>header .media .hero
+{
+  background-size: auto;
+}
+
 @mixin login_register_h1_style {
     clip: auto !important;
     height: 50px;
