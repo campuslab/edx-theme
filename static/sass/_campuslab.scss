@@ -214,9 +214,9 @@ $video-thumb-url: '../themes/campuslab/images/campuslab_logo_video_thumb.png';
   width: 100%;
 }
 
-section.container 
+.container 
 {
-  padding-bottom: 3em;
+  margin: 0 auto -149px;
 }
 
 @mixin login_register_h1_style {
