@@ -195,6 +195,12 @@ $video-thumb-url: '../themes/campuslab/images/campuslab_logo_video_thumb.png';
 //-----------------
 //  Mixin Styles
 //-----------------
+
+.view-register .introduction header .title, .view-login .introduction header .title, .view-passwordreset .introduction header .title
+{
+  top: 40px;
+}
+
 @mixin login_register_h1_style {
     clip: auto !important;
     height: 50px;
