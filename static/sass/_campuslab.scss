@@ -222,7 +222,9 @@ $video-thumb-url: '../themes/campuslab/images/campuslab_logo_video_thumb.png';
   z-index: 999;
 }
 
-.container 
+.view-register .container, 
+.view-login .container, 
+.view-passwordreset .container 
 {
   margin: 0 auto 100px;
 }
