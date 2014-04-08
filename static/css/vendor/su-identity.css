@@ -44,10 +44,10 @@
 
 /* Background gradient */
 #su-footer {
-  position: absolute;
+  position: fixed;
   background: #3aaa35;
   box-shadow: inset 0 -4px 8px -2px rgba(0, 0, 0, 0.2); /* Horizontal offset , vertical offset, blur, internal spacing */
-  min-height: 30px;
+  min-height: 20px;
   bottom:0;
   width: 100%;
   z-index: 99;
