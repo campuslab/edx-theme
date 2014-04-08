@@ -217,10 +217,11 @@ $video-thumb-url: '../themes/campuslab/images/campuslab_logo_video_thumb.png';
 {
   position: fixed;
   bottom: 30px;
-  font-size: 9px;
+  font-size: 12px;
   display: block;
   width: 100%;
   z-index: 99;
+  padding: 10px;
 }
 
 .view-register .container, 
